@@ -37,3 +37,13 @@ _ReSharper.*
 */Thumbs.db
 */log.txt
 /Assets/
+.vs
+
+####################################
+#                                  #
+#       UMCO's build folders       #
+
+artifacts/
+src/packages/*/**
+build/_nuget/
+build/_umbraco/
