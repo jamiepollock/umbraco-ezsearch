@@ -2,25 +2,21 @@
 <umbPackage>
 	<info>
 		<package>
-			<name>ezSearch</name>
-			<version>0.0</version>
-			<license url="http://www.opensource.org/licenses/mit-license.php">MIT license</license>
-			<url>http://our.umbraco.org/projects/website-utilities/ezSearch</url>
-			<requirements>
-				<major>6</major>
+			<name></name>
+			<version>0.0.0</version>
+			<license url=""></license>
+			<url></url>
+			<requirements type="strict">
+				<major>0</major>
 				<minor>0</minor>
-				<patch>4</patch>
+				<patch>0</patch>
 			</requirements>
 		</package>
 		<author>
-			<name>Matt Brailsford, Douglas Robar</name>
-			<website>http://our.umbraco.org</website>
+			<name></name>
+			<website></website>
 		</author>
-		<readme><![CDATA[ezSearch is the easy search solution for your Umbraco MVC websites. It's fast, self contained and completely configurable.
-
-With ezSearch you can search for words and phrases in your content and media and have the results displayed in a paged list sorted by relevance and with search term highlighting.
-
-ezSearch runs on Umbraco 6.0.4+ and is powered by the built in Lucene index and razor, giving you a fast yet flexible site search package.]]></readme>
+		<readme><![CDATA[]]></readme>
 	</info>
 
 	<DocumentTypes>
